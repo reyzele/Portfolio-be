@@ -1,6 +1,6 @@
 {
   "server": {
-    "path": "http://localhost:3000",
+    "path": "http://vveksler.herokuapp.com",
     "blog": "/api/blog",
     "avatar": "/api/avatar",
     "about": "/api/about",
