@@ -1,6 +1,6 @@
 {
   "server": {
-    "path": "http://vveksler.herokuapp.com",
+    "path": "http://portfolio-vveksler.herokuapp.com",
     "blog": "/api/blog",
     "avatar": "/api/avatar",
     "about": "/api/about",
